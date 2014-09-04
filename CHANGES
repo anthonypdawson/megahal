@@ -1,0 +1,20 @@
+#####################################################################
+# Relatório de desenvolvimento do Megahal (bot irc)
+# Formato:
+# DATA: Lista de modificações
+#
+# +autor      -=>  feito pelo <autor>
+# =           -=>  incompleto, fase de testes
+# -           -=>  ainda a ser feito
+# #(obs)      -=>  jah existente <obs> eh uma observacao que pode ser feita
+
++cyborg - 07/03-05/99 - MegaHAL is now joining irc channels and speaking with
+		    many peoples at the same time ;) !!
++lander - 07/08/99    - now .megahal/ is the directory with the base files
++cyborg - 07/09/99    - now you can reload the brain without quit the bot and
+                    without save
++cyborg - 07/09/99    - now the params is better, like -h XX -p 00 -a ZZ....
++cyborg - 07/09/99     - -q (quiet mode) turns bot to stays in background mode
+                   (&), but you need redirect the error messages ( 2> /dev/null
+                   for none logging)
++cyborg - 07/10-11/99 - the bot only response the messages that starts with "nick: "

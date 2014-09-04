@@ -1,0 +1,22 @@
+#####################################################################
+# Relatório de desenvolvimento do Megahal (bot irc)
+# Formato:
+# DATA: Lista de modificações
+#
+# +autor    -=>  feito pelo <autor>
+# =           -=>  incompleto, fase de testes
+# -           -=>  ainda a ser feito
+# #(obs)      -=>  jah existente <obs> eh uma observacao que pode ser feita
+
+arrumar o bug de entrada dele "verifique megahal.log" e ele dispara no canal -=> sometimes
+arrumar o bug de invite only
+criar um comando que retorne o quit e a hora que a pessoa saiu
+criar um comando que de op para um nick: !op nick  
+criar um comando que deop um nick: !deop nick
+criar um comando que kick um nick com reason: !kick nick <reason>
+criar um comando que kick/ban um nick com reason: !kb nick <reason>
+criar um comando que retire todos os bans do canal: !rkb
+
+documentar todos os comandos com seus parametros e efeitos
+
+
